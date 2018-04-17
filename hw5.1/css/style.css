@@ -5,7 +5,7 @@
 body {
     margin: 0 auto;
     /*width:  1260px;*/
-    height: 2200px;
+    height: 2500px;
 }
 .page{
     margin-left: 170px;
@@ -21,7 +21,7 @@ br {
 }
 .upperPart {
     width: 100%;
-    height: 26%;
+    height: 23%;
     background: url(../img/livingroom.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -29,7 +29,6 @@ br {
 .logo{
     max-width: 55px;
     max-height: 55px;
-
     margin: 26px;
 }
 .searchBox{
@@ -219,6 +218,17 @@ p{
     width: 370px;
     height: 220px;
     float: left;
+}
+.love p,.home p,.person p{
+    margin-top: 10px;
+    font-size:18px;
+    font-family: Arial;
+    color:#666666;
+}
+#pp{
+    font-size:17px;
+    font-family: Arial;
+    color:#666666;
 }
 .home{
     margin-left:17px;
